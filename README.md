@@ -1,1 +1,1 @@
-# technology-information
+get information from 、marvis
