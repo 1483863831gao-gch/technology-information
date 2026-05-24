@@ -1,1 +1,1 @@
-get information from 、marvis
+get information from marvis
